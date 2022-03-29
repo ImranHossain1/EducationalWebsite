@@ -7,11 +7,11 @@ import img3 from '../../images/banner3.jpg';
 
 const Banner = () => {
     return (
-        <div className='banner'>
+        <div className='banner mt-2'>
             <Carousel >
             <Carousel.Item interval={5000}>
                 <img
-                    className="fluid"
+                    className="img-fluid"
                     src={img1}
                     alt="First slide"
                 />
