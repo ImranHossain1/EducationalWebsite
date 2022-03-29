@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "courseTitle": "English Literature",
+    "courseIcon": "https://www.apoven.com/wp-content/uploads/2019/06/Spoken-English.png"
+
+  },
+  {
+    "key": 2,
+    "courseTitle": "Computer Programmimg",
+    "courseIcon": "https://i.pinimg.com/originals/db/e4/27/dbe42724d9827b829ac0263e9c4590f4.png"
+  },
+  {
+    "key": 3,
+    "courseTitle": "Academic Education",
+    "courseIcon": "https://icon-library.com/images/academic-icon/academic-icon-13.jpg"
+  }
+]
