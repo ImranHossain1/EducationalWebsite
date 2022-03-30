@@ -11,7 +11,7 @@ const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <div className='mt-5 text-capitalize text-center'>
+            <div className='mt-5 text-center'>
                 <h2>Let the journey of self-learning begin</h2>
                 <p>Go to the section of your choice to study any topic on any subject</p>
                 <div className='container my-4 mx-auto'>
