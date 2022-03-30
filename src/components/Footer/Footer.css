@@ -1,0 +1,51 @@
+.footer{
+    background-color: rgba(202, 202, 202, 0.986);
+    height: 100%;
+    color: rgb(45, 46, 46); 
+}
+.footer img{
+    width: 40px;
+    height: 40px;
+}
+.location{
+    color: rgb(39, 40, 41)
+}
+.navlink a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(255, 102, 0)
+}
+.facebook{
+    color: #3b5998;
+    width:30px; 
+    height:30px;
+    margin-right: 10px;
+    background-image: linear-gradient( to bottom, transparent 20%, white 20%, white 93%, transparent 93% );
+    background-size: 55%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+}
+.instagram{
+    width:30px; 
+    height:30px;
+    margin-right: 10px;
+    color: rgb(39, 40, 41);
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.linkdin{
+    color: #0077b5;
+    background-color: aliceblue;
+    font-size: 30px;
+    margin-right: 10px;
+}
+.github{
+    color: #202124;
+    background-color: aliceblue;
+    font-size: 30px;
+    margin-right: 10px;
+}

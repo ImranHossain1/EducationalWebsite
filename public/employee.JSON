@@ -1,0 +1,125 @@
+[
+    {
+      "empId": 1001,
+      "empName": "Md Imran Hossain",
+      "empImg": "https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/272438507_4895427637230192_5069794564616468516_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFSy_BOtU-Za7STAzz1myhz75Q8nQnGkFTvlDydCcaQVFnLBjAejRSS-ug08I8PjPfezZ6Ulu4P8mmDAGI2UOCO&_nc_ohc=d7cCRaURII0AX9a3lZs&_nc_ht=scontent-frt3-1.xx&oh=00_AT-rpslyDxzdHuNwWHR51064qOVtsjL39jYcqrYuJX1GbA&oe=6248E819",
+      "empRole": "CEO & Founder"
+    },
+    {
+      "empId": 1002,
+      "empName": "Mitu Akter Badhon",
+      "empImg": "https://scontent-frx5-1.xx.fbcdn.net/v/t39.30808-6/275116837_1404434113336630_9123850932503029027_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFnhr-VrAbfrBQzmzqj_qKpbGsHMg7Xzp9sawcyDtfOn3zuLBxcfYeCINPu0wBxx0PujIi_qG7aUKe2Hh5lt6mC&_nc_ohc=fk4hOu4EbhQAX-bS7pz&tn=LPOm4DodyCu1Jk6E&_nc_ht=scontent-frx5-1.xx&oh=00_AT-YGS1NaT8UiIF_Vns48BPM-YvPIDmyA3v_0j0FSzAa-Q&oe=624A2835",
+      "empRole": "Co-Founder"
+    },
+    {
+      "empId": 1003,
+      "empName": "Asaduzzaman Mugdho",
+      "empImg": "https://st3.depositphotos.com/14846838/19541/v/450/depositphotos_195416226-stock-illustration-young-aged-boy-wearing-colorful.jpg",
+      "empRole": "Project Manager"
+
+    },
+    {
+      "empId": 1004,
+      "empName": "Shayla Akter",
+      "empImg": "https://icon-library.com/images/anonymous-female-icon/anonymous-female-icon-15.jpg",
+      "empRole": "Project Manager"
+    },
+    {
+      "empId": 1005,
+      "empName": "Mahbub Hasan",
+      "empImg": "https://cdn1.iconfinder.com/data/icons/avatar-2-2/512/Employee-512.png",
+      "empRole": "Chief Operating Officer"
+    },
+    {
+      "empId": 1006,
+      "empName": "Shams Tabrez",
+      "empImg": "https://st3.depositphotos.com/14846838/19541/v/450/depositphotos_195416226-stock-illustration-young-aged-boy-wearing-colorful.jpg",
+      "empRole": "Advisor"
+    },
+    {
+      "empId": 1007,
+      "empName": "Parvez Ahmed",
+      "empImg": "https://cdn1.iconfinder.com/data/icons/avatar-2-2/512/Employee-512.png",
+      "empRole": "Content Editor",
+      "empEducation": "BPharm",
+      "empSector":"Pharmacy"
+    },
+    {
+      "empId": 1008,
+      "empName": "Abdullah-al Imram",
+      "empImg": "https://truesun.in/wp-content/uploads/2021/08/62681-flat-icons-face-computer-design-avatar-icon.png",
+      "empRole": "Research and Development Engineer"
+    },
+    {
+      "empId": 1009,
+      "empName": "Sumiya Akter Shajuti",
+      "empImg": "https://www.pngitem.com/pimgs/m/71-716892_woman-avatar-icon-png-transparent-png.png",
+      "empRole": "HR Executive"
+    },
+    {
+      "empId": 1010,
+      "empName": "Riyan Hasan",
+      "empImg": "https://icon-library.com/images/anonymous-female-icon/anonymous-female-icon-15.jpg",
+      "empRole": "Job Placement Executive"
+    },
+    {
+      "empId": 1011,
+      "empName": "Shafia Rahman Chowdhury",
+      "empImg": "https://www.pngitem.com/pimgs/m/71-716892_woman-avatar-icon-png-transparent-png.png",
+      "empRole": "Web Instructor"
+    },
+    {
+      "empId": 1012,
+      "empName": "Md. Khairul Bashar Nayon",
+      "empImg": "https://st3.depositphotos.com/14846838/19541/v/450/depositphotos_195416226-stock-illustration-young-aged-boy-wearing-colorful.jpg",
+      "empRole": "2D Animator"
+    },
+    {
+      "empId": 1013,
+      "empName": "Md. Zahid Hossain",
+      "empImg": "https://www.pngitem.com/pimgs/m/71-716892_woman-avatar-icon-png-transparent-png.png",
+      "empRole": "UI/UX Designer"
+    },
+    {
+      "empId": 1014,
+      "empName": "Md. Asif Iqbal",
+      "empImg": "https://www.pngitem.com/pimgs/m/71-716892_woman-avatar-icon-png-transparent-png.png",
+      "empRole": "Web Instructor"
+    },
+    {
+      "empId": 1015,
+      "empName": "Shahriar Hoq Shubho",
+      "empImg": "https://truesun.in/wp-content/uploads/2021/08/62681-flat-icons-face-computer-design-avatar-icon.png",
+      "empRole": "Job Placement Executive"
+    },
+    {
+      "empId": 1016,
+      "empName": "Mohammad Tamim Rahman",
+      "empImg": "https://cdn1.iconfinder.com/data/icons/avatar-2-2/512/Employee-512.png",
+      "empRole": "SQA Intern"
+    },
+    {
+      "empId": 1017,
+      "empName": "Hebron Hossain Hamim",
+      "empImg": "https://truesun.in/wp-content/uploads/2021/08/62681-flat-icons-face-computer-design-avatar-icon.png",
+      "empRole": "Web Developer"
+    },
+    {
+      "empId": 1018,
+      "empName": "Chayti Saha",
+      "empImg": "https://www.pngitem.com/pimgs/m/71-716892_woman-avatar-icon-png-transparent-png.png",
+      "empRole": "Web Developer"
+    },
+    {
+      "empId": 1019,
+      "empName": "Israfil Hossen",
+      "empImg": "https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png",
+      "empRole": "Mobile Application Developer I"
+    },
+    {
+      "empId": 1020,
+      "empName": "Afsara Tasnim Lamia",
+      "empImg": "https://icon-library.com/images/anonymous-female-icon/anonymous-female-icon-15.jpg",
+      "empRole": "Senior Job Placement Executive"
+    }
+  ]

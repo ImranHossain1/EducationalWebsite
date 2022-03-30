@@ -7,6 +7,7 @@ const useCart = (courses)=>{
         if(courses.length){
             const savedCart = getStoredCart();
             const storedCart = [];
+            //console.log(savedCart);
             for(const courseId in savedCart){
                 const addedcourse = courses.find(course => course.courseId === parseInt(courseId));
                 if(addedcourse){

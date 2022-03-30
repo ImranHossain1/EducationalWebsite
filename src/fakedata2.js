@@ -1,70 +1,142 @@
-const crashCourse= [{
-    courseId: 101,
-    courseName: "Spoken English",
-    CourseImg:"https://leverageedu.com/blog/wp-content/uploads/2020/05/How-to-Learn-Spoken-English_.png",
-    CoursePrice: 5000,
-    CourseDuration: "3 Months"
+const Employee= [
+    {
+        empId: 1001,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
     },
     {
-        courseId: 102,
-        courseName: "IELTS",
-        CourseImg:"https://www.etreelanguagesolutions.com/ielts/1.jpg",
-        CoursePrice: 8000,
-        CourseDuration: "4 Months"
+        empId: 1002,
+        empName: "Mitu Akter Badhon",
+        empImg: 'https://cdn3.iconfinder.com/data/icons/business-ii-1/100/25-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
     },
     {
-        courseId: 103,
-        courseName: "English writing skills",
-        CourseImg:"https://www.readandspell.com/sites/default/files//blog/HowToImproveWritingSkillsInEnglishN.jpg",
-        CoursePrice: 5000,
-        CourseDuration: "3 Months"
+        empId: 1003,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
     },
     {
-        courseId: 104,
-        courseName: "English Grammer",
-        CourseImg:"https://www.itepexam.com/wp-content/uploads/2021/01/English-Grammar.jpg",
-        CoursePrice: 5000,
-        CourseDuration: "3 Months"
+        empId: 1004,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
     },
     {
-        courseId: 201,
-        courseName: "Web Development",
-        CourseImg:"https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg",
-        CoursePrice: 5000,
-        CourseDuration: "6 Months"
-        },
-        {
-            courseId: 202,
-            courseName: "Learn Python",
-            CourseImg:"https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy.jpg",
-            CoursePrice: 8000,
-            CourseDuration: "4 Months"
-        },
-        {
-            courseId: 203,
-            courseName: "Learn JAVA",
-            CourseImg:"https://t4.ftcdn.net/jpg/02/92/83/57/360_F_292835773_oImixQGFKLpOPnjfsbesHyqdjOk5hsxL.jpg",
-            CoursePrice: 5000,
-            CourseDuration: "3 Months"
-        },{
-            courseId: 301,
-            courseName: "Mathematics",
-            CourseImg:"https://i.ytimg.com/vi/Kp2bYWRQylk/maxresdefault.jpg",
-            CoursePrice: 5000,
-            CourseDuration: "3 Months"
-            },
-            {
-                courseId: 302,
-                courseName: "Science",
-                CourseImg:"https://mgh.gr/wp-content/uploads/2021/11/hand-drawn-science-education-background_23-2148499325.jpg",
-                CoursePrice: 8000,
-                CourseDuration: "4 Months"
-            },
-            {
-                courseId: 303,
-                courseName: "History",
-                CourseImg:"https://loop21.com/wp-content/uploads/2020/04/What-You-Can-Do-After-A-Master%E2%80%99s-In-History-Degree.jpg",
-                CoursePrice: 5000,
-                CourseDuration: "3 Months"
-            }
+        empId: 1005,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1006,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1007,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1008,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1009,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1010,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1011,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1012,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1013,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1014,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1015,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1016,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1017,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1018,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1019,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
+    {
+        empId: 1020,
+        empName: "Md Imran Hossain",
+        empImg: 'https://cdn0.iconfinder.com/data/icons/management-1/100/business-05-512.png',
+        empRole: "CEO & Founder",
+        empEducation:"Master's in Computer Science & Engineering"
+    },
 ]

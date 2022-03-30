@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import useCourses from '../../hooks/useCourses';
+import Academic from '../Academic/Academic';
 import Banner from '../Banner/Banner';
+import Computer from '../Computer/Computer';
 import CourseCatagory from '../CourseCatagory/CourseCatagory';
+import English from '../English/English';
 
 const Home = () => {
     const [courses,setCourses]= useCourses("/courses.JSON");
@@ -20,8 +23,11 @@ const Home = () => {
                             ></CourseCatagory>)
                         }
                     </div>
-                </div> 
+                </div>   
             </div>
+            <English></English>
+            <Computer></Computer>
+            <Academic></Academic>
         </div>
     );
 };

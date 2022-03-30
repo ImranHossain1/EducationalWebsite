@@ -3,12 +3,16 @@ import './App.css';
 import About from './components/About/About';
 import Courses from './components/Courses/Courses';
 import EnrollmentSuccessfull from './components/EnrollmentSuccessfull/EnrollmentSuccessfull';
+import Footer from './components/Footer/Footer';
 
 
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
 import ReviewCourses from './components/ReviewCourses/ReviewCourses';
+import initFontAwesome from './library/initFontAwesome';
+
+initFontAwesome();
 
 function App() {
   return (
@@ -24,6 +28,7 @@ function App() {
           <Route path="/enrolled" element={<EnrollmentSuccessfull/>}></Route>
           <Route path="*" element={<NotFound/>}></Route>
         </Routes>
+        <Footer></Footer>
       </BrowserRouter>
     </div>
   );
